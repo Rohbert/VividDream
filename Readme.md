@@ -28,6 +28,7 @@ Bombs can blow up cracked dirt blocks.
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-2.png "Vivid Dream 3")
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-3.png "Vivid Dream 4")
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-4.png "Vivid Dream 5")
+![alt text](https://github.com/Rohbert/VividDream/blob/main/vivid_1.gif "VD Gif 1")
 
 
 
