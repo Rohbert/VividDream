@@ -15,13 +15,17 @@ Patch to a Super Mario Bros. 2.nes rom   (prg0)    CRC32 header of 43507232
 
 
 #### Tips:
-Hold down on d-pad for 3 or more seconds to charge a high jump that will let you reach high ledges.
-Collect 5 cherries to spawn an invincibility star.
-Defeat 5 or more enemies to spawn a heart to refill health.
-Drop potions where you find them to find a power mushroom.
-Hold jump button while landing on a trampoline block to get maximum height (No need to time the button, just hold)
-POW blocks can shake items into range.
-Bombs can blow up cracked dirt blocks.
+1. Hold down on d-pad for 3 or more seconds to charge a high jump that will let you reach high ledges.
+2. Collect 5 cherries to spawn an invincibility star.
+3. Defeat 5 or more enemies to spawn a heart to refill health.
+4. Drop potions where you find them to find a power mushroom.
+5. Hold jump button while landing on a trampoline block to get maximum height (No need to time the button, just hold)
+6. POW blocks can shake items into range.
+7. Bombs can blow up cracked dirt blocks.
+8. Stand on a key or bomb or 1-up and throw a POW block to be lifted off the ground.
+9. While being levitated by a POW block quake, you can phase thru ceilings.
+10. Stop Watches can freeze enemies for several seconds allowing you to use them as platforms.
+11. Throw and ride a turtle shell to cross spiked floors safely.
 
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-0.png "Vivid Dream 1")
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-1.png "Vivid Dream 2")
@@ -29,6 +33,7 @@ Bombs can blow up cracked dirt blocks.
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-3.png "Vivid Dream 4")
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-4.png "Vivid Dream 5")
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/vivid_1.gif "VD Gif 1")
+
 
 
 
