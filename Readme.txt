@@ -25,7 +25,8 @@ POW blocks can shake items into range.
 Bombs can blow up cracked dirt blocks.
 
 
-![Vivid Dream 1](Vivid_Dream_1_1-0.png)
+![alt text](Vivid_Dream_1_1-0.png "Vivid Dream 1")
+
 
 
 
