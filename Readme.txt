@@ -24,8 +24,8 @@ Hold jump button while landing on a trampoline block to get maximum height (No n
 POW blocks can shake items into range.
 Bombs can blow up cracked dirt blocks.
 
+![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-0.png "Vivid Dream 1")
 
-![alt text](Vivid_Dream_1_1-0.png "Vivid Dream 1")
 
 
 
