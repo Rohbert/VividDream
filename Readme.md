@@ -27,7 +27,7 @@ Patch to a Super Mario Bros. 2.nes rom   (prg0)    CRC32 header of 43507232
 10. Stop Watches can freeze enemies for several seconds allowing you to use them as platforms.
 11. Throw and ride a turtle shell to cross spiked floors safely.
 
-    [Download Vivid Dream v1.1 Patch Here](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1.zip)
+    [Download Vivid Dream v1.1 Patch Here](https://github.com/Rohbert/VividDream/raw/refs/heads/main/Vivid_Dream_1_1.zip)
 
 
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-0.png "Vivid Dream 1")
@@ -36,6 +36,7 @@ Patch to a Super Mario Bros. 2.nes rom   (prg0)    CRC32 header of 43507232
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-3.png "Vivid Dream 4")
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/Vivid_Dream_1_1-4.png "Vivid Dream 5")
 ![alt text](https://github.com/Rohbert/VividDream/blob/main/vivid_1.gif "VD Gif 1")
+
 
 
 
